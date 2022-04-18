@@ -6,17 +6,17 @@ Master of Sciences' degree in Computer and Information Sciences, Computer system
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mennat-ullah&label=Profile%20views&color=0e75b6&style=flat" alt="mennat-ullah" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mennat-ullah" alt="mennat-ullah" /></a> </p>
 <!--<hr>-->
-<table style="width:100%">
-  <tr>
-    <td>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
+<h3 align="left">Contact card:</h3>
+<img src="Contact_card_QR.jpg" alt="Mennatullah Hesham Noaman" height="170" width="170"/></a>
+
+<h3 align="left">Connect with me:</h3> 
+<p align="left">
 <a href="mailto:mennatullah.h.noaman@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/640px-Gmail_icon_%282020%29.svg.png" alt="mennatullah.h.noaman@gmail.com" height="30" width="40" /></a>
 <a href="mailto:mennatullah.hesham@cis.asu.edu.eg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="https://www.linkedin.com/in/mennatullah-hesham/" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mennatullah-hesham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mennatullah-hesham/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1928702/mennatullah-hesham-noaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/1928702/mennatullah-hesham-noaman" height="30" width="40" /></a>
-<a href="https://drive.google.com/file/d/1Lzz-WH5pZN7w_Y_WChAXTM_51MOwKSsp/view?usp=sharing" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=1kmGM5C0r0rBYR5v1L6YBPySFtLg1bCkj" alt="https://drive.google.com/file/d/1Lzz-WH5pZN7w_Y_WChAXTM_51MOwKSsp/view?usp=sharing" height="30" width="40"/></a>
+<a href="https://drive.google.com/file/d/1Lzz-WH5pZN7w_Y_WChAXTM_51MOwKSsp/view?usp=sharing" target="blank"><img align="center" src="myCV-logo.png" alt="https://drive.google.com/file/d/1Lzz-WH5pZN7w_Y_WChAXTM_51MOwKSsp/view?usp=sharing" height="30" width="40"/></a>
 
 - Data Science | Machine Learning:
 <a href="https://www.kaggle.com/mennatullahhesham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mennatullahhesham" height="30" width="40" /></a>
@@ -31,15 +31,7 @@ Master of Sciences' degree in Computer and Information Sciences, Computer system
 - Resersher:
 <a href="https://scholar.google.com/citations?hl=en&user=FcvzXm4AAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" alt="https://scholar.google.com/citations?hl=en&user=FcvzXm4AAAAJ" height="30" width="40" /></a>
 <a href="https://orcid.org/0000-0001-6847-864X" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1200px-ORCID_iD.svg.png" alt="https://orcid.org/0000-0001-6847-864X" height="30" width="40" /></a>
-
 </p>
-    </td>
-<td>
-<h3 align="left">Contact card:</h3>
-<img src="https://drive.google.com/uc?export=view&id=15nSnZm72gB91h3iRC8Np5XwZVGalBxwI" alt="Mennatullah Hesham Noaman" height="200" width="200"/></a>
-</td>
-  </tr>
-</table>
 <!--<hr>-->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -68,7 +60,6 @@ Master of Sciences' degree in Computer and Information Sciences, Computer system
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-
 </p>
 <!--<hr>-->
 
