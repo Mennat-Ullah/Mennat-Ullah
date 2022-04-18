@@ -68,7 +68,6 @@ Master of Sciences' degree in Computer and Information Sciences, Computer system
 <h3 align="left">Contribution Statistics:</h3>
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mennat-ullah&show_icons=true&locale=en&layout=compact" alt="mennat-ullah" /> 
-</div>
-<div> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mennat-ullah&show_icons=true&locale=en" alt="mennat-ullah" /> 
+&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mennat-ullah&show_icons=true&locale=en" alt="mennat-ullah" /> 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mennat-ullah&" alt="mennat-ullah" />
 </div>
